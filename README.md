@@ -1,1 +1,1 @@
-# hello-world im just starting to program. im following the tutorial
+# hello-world im just starting to program. im following the tutorial today
